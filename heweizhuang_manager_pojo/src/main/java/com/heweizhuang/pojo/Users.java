@@ -6,6 +6,8 @@ package com.heweizhuang.pojo;
  * @Description: com.heweizhuang.pojo
  * @Version: 1.0
  */
+
+//用户实体
 public class Users {
 
     private Integer userid;
